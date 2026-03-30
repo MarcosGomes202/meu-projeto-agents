@@ -1,1 +1,106 @@
-teste
+Entrevista de Carreira em Tecnologia - Agent 1
+
+Pergunta 1:
+Olá! 👋 Sou seu entrevistador de carreira em tecnologia. 
+Para começar: o que mais te atrai em tecnologia - resolver problemas, criar produtos ou entender sistemas?
+Resposta: resolver problemas
+
+Pergunta 2:
+Legal! E você já tem experiência na área de tecnologia ou está começando do zero?
+Resposta: Sim tenho, estou cursando o 8º semestre da faculdade de Ciências da Computação
+
+Pergunta 3:
+Entendi! Quantas horas por semana você consegue dedicar aos estudos?
+Resposta: 8 horas
+
+Pergunta 4:
+Perfeito! No seu dia a dia, você prefere lidar mais com pessoas, dados ou código?
+Resposta: Dados
+
+Pergunta 5:
+Ótimo! Qual é seu objetivo principal: conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual?
+Resposta: Conseguir o primeiro emprego
+
+Pergunta 6:
+Show! Quais assuntos ou tecnologias mais despertam seu interesse? 
+Resposta: Dados, inteligência artificial
+
+Pergunta 7:
+Última pergunta: você tem alguma experiência prévia (mesmo que não seja em tech) que gostaria de aproveitar nessa nova jornada?
+Resposta: Trabalho com vendas há 8 anos
+
+------------------------------------------------------------
+
+📊 Análise e Sugestão
+
+🥇 1º LUGAR: Cientista de Dados – 18/20
+💡 Por que combina com você:
+- Afinidade com resolver problemas e dados
+- Interesse em Inteligência Artificial
+- Base sólida em Ciência da Computação
+- Experiência em vendas aproveitável para análise de negócios
+
+⚖️ O que esperar:
+Vantagens:
+- Alta demanda no mercado
+- Atuação em diversos setores
+Desafios:
+- Necessidade de aprender estatística e machine learning
+- Exige prática em projetos reais
+
+📈 Mercado:
+Área em forte crescimento global, variando por região e experiência.
+
+------------------------------------------------------------
+
+🥈 2º LUGAR: Engenheiro de Machine Learning – 16/20
+💡 Por que combina com você:
+- Interesse direto em Inteligência Artificial
+- Resolver problemas complexos com algoritmos
+- Base acadêmica sólida
+
+⚖️ O que esperar:
+Vantagens:
+- Projetos inovadores
+- Grande valorização no mercado
+Desafios:
+- Ramp-up mais longo
+- Exige matemática aplicada e programação avançada
+
+📈 Mercado:
+Muito aquecido em empresas de tecnologia e startups, mas competitivo.
+
+------------------------------------------------------------
+
+🥉 3º LUGAR: Analista de Business Intelligence (BI) – 15/20
+💡 Por que combina com você:
+- Une experiência em vendas com análise de dados
+- Ramp-up mais rápido para primeiro emprego
+
+⚖️ O que esperar:
+Vantagens:
+- Entrada acessível no mercado de dados
+- Forte conexão com áreas de negócio
+Desafios:
+- Menor profundidade técnica
+- Exige habilidades de comunicação
+
+📈 Mercado:
+Presente em empresas de médio e grande porte, boa demanda.
+
+------------------------------------------------------------
+
+Escolha do usuário: Cientista de Dados
+
+------------------------------------------------------------
+🔄 Handoff para Agent 2
+
+Informações transferidas:
+- Carreira escolhida: Cientista de Dados
+- Horas disponíveis por semana: 8 horas
+- Nível de experiência: Iniciante (8º semestre de Ciência da Computação)
+- Objetivo: Conseguir o primeiro emprego
+- Preferência: Dados
+- Interesses técnicos: Dados, Inteligência Artificial
+- Experiência prévia: 8 anos em vendas
+
